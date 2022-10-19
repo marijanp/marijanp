@@ -1,3 +1,3 @@
  ⬅️ Yes, that's my dog 🦊
- - website/ blog: [marijan.srht.site](https://marijan.srht.site/)
+ - website/ blog: [marijan.pro](https://marijan.pro/)
  - sourcehut: [git.sr.ht/~marijan/](https://git.sr.ht/~marijan/)
